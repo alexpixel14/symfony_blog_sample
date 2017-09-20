@@ -1,0 +1,104 @@
+10:59:50:386 (1464) > --- NIXXES log start ---
+10:59:50:387 (1464) > 
+10:59:50:389 (1464) > Memory statistics:
+10:59:50:391 (1464) >   Total RAM = 7.9 GB (8084 MB)
+10:59:50:392 (1464) >   Avail RAM = 3.9 GB (4026 MB)
+10:59:50:393 (1464) >   Total virtual memory = 4.0 GB (4095 MB)
+10:59:50:396 (1464) >   Avail virtual memory = 3.4 GB (3438 MB)
+10:59:50:397 (1464) > OS = Windows 8 (build 9200)
+10:59:50:398 (1464) > Starting Tomb Raider v1.01.748.0
+10:59:50:624 (1464) > [Main] Current directory: D:\programs\Steam\steamapps\common\Tomb Raider
+10:59:50:787 (1464) > Mounted TITLE.000
+10:59:50:819 (1464) > Mounted PATCH.000
+10:59:50:824 (1464) > Mounted PATCH2.000
+10:59:51:368 (1464) > [Render] PCDeviceManager constructor start
+10:59:51:586 (1464) > [Render] PCDeviceManager constructor end
+10:59:52:380 (1464) > [Render] PCDX11DeviceManager constructor start
+10:59:52:382 (1464) > D3D Adapter Information:
+10:59:52:384 (1464) > Adapter Description: NVIDIA GeForce GTX 950M
+10:59:52:385 (1464) > VendorID: 10de
+10:59:52:386 (1464) > DeviceID: 139a
+10:59:52:387 (1464) > Revision: a2
+10:59:52:388 (1464) > NVidia hardware detected. Attemping to load NVAPI...
+10:59:52:389 (1464) > NVAPI loaded succesfully.
+10:59:52:391 (1464) > NvAPI_Stereo_IsEnabled() returned an error: -140
+10:59:52:407 (1464) > Reducing mouse lag by setting frame latency to 1...
+10:59:52:409 (1464) > D3D reports feature level 11 is supported.
+10:59:52:429 (1464) > NVAPI Depth Bounds Test supported.
+10:59:52:442 (1464) > D3D Adapter Information:
+10:59:52:442 (1464) > Adapter Description: Intel(R) HD Graphics 530
+10:59:52:444 (1464) > VendorID: 8086
+10:59:52:445 (1464) > DeviceID: 191b
+10:59:52:446 (1464) > Revision: 6
+10:59:53:135 (1464) > Reducing mouse lag by setting frame latency to 1...
+10:59:53:136 (1464) > D3D reports feature level 11 is supported.
+10:59:53:138 (1464) > D3D reports no hardware multiple command list support.
+10:59:53:142 (1464) > [Render] Adapter I has no outputs!
+10:59:53:143 (1464) > D3D Adapter Information:
+10:59:53:144 (1464) > Adapter Description: Microsoft Basic Render Driver
+10:59:53:147 (1464) > VendorID: 1414
+10:59:53:147 (1464) > DeviceID: 8c
+10:59:53:148 (1464) > Revision: 0
+10:59:53:155 (1464) > Reducing mouse lag by setting frame latency to 1...
+10:59:53:157 (1464) > D3D reports feature level 11 is supported.
+10:59:53:158 (1464) > D3D reports no hardware multiple command list support.
+10:59:53:158 (1464) > D3D reports no hardware concurrent creates.
+10:59:53:160 (1464) > [Render] Adapter M has no outputs!
+10:59:53:162 (1464) > [Render] PCDX11DeviceManager constructor end
+10:59:58:495 (1464) > CPU count: logical = 8, cores = 4, physical = 1
+10:59:58:517 (1464) > D3D Adapter Information:
+10:59:58:518 (1464) > Adapter Description: NVIDIA GeForce GTX 950M
+10:59:58:520 (1464) > VendorID: 10de
+10:59:58:521 (1464) > DeviceID: 139a
+10:59:58:522 (1464) > Revision: a2
+10:59:58:523 (1464) > NVidia hardware detected. Attemping to load NVAPI...
+10:59:58:525 (1464) > NVAPI loaded succesfully.
+10:59:58:525 (1464) > NvAPI_Stereo_IsEnabled() returned an error: -140
+10:59:58:870 (1464) > Reducing mouse lag by setting frame latency to 1...
+10:59:58:871 (1464) > D3D reports feature level 11 is supported.
+10:59:58:874 (1464) > NVAPI Depth Bounds Test supported.
+10:59:58:974 (6328) > CreateSwapChain() = 0
+10:59:58:975 (6328) > MakeWindowAssociation() = 0
+10:59:59:123 (6328) > SetFullscreenState() = 0
+10:59:59:254 (1464) > [Render] Using DirectX 11
+10:59:59:739 (1464) > Initalizing audio...
+10:59:59:776 (1464) > Audio device found. FMOD reports 1 driver(s).
+10:59:59:778 (1464) > Audio Driver Name: Altavoces (Realtek High Definition Audio)
+10:59:59:779 (1464) > Speaker Mode: 2
+11:00:03:113 (1464) > WebService is not ready yet, retry...
+11:00:03:469 (1464) > WebService is not ready yet, retry...
+11:00:03:538 (1464) > WebService is not ready yet, retry...
+11:00:03:561 (1464) > WebService is not ready yet, retry...
+11:00:03:569 (1464) > WebService is not ready yet, retry...
+11:00:03:577 (1464) > WebService is not ready yet, retry...
+11:00:03:600 (1464) > WebService is not ready yet, retry...
+11:00:03:633 (1464) > WebService is not ready yet, retry...
+11:00:03:667 (1464) > WebService is not ready yet, retry...
+11:00:03:668 (1464) > WebService is not ready yet, retry...
+11:00:03:700 (1464) > WebService is not ready yet, retry...
+11:00:03:702 (1464) > WebService is not ready yet, retry...
+11:00:03:733 (1464) > WebService is not ready yet, retry...
+11:00:03:737 (1464) > WebService is not ready yet, retry...
+11:00:03:766 (1464) > WebService is not ready yet, retry...
+11:00:03:768 (1464) > WebService is not ready yet, retry...
+11:00:03:799 (1464) > WebService is not ready yet, retry...
+11:00:03:801 (1464) > WebService is not ready yet, retry...
+11:00:03:833 (1464) > WebService is not ready yet, retry...
+11:00:03:834 (1464) > WebService is not ready yet, retry...
+11:00:03:867 (1464) > WebService is not ready yet, retry...
+11:00:03:868 (1464) > WebService is not ready yet, retry...
+11:00:03:901 (1464) > OLWebServiceClient [Status:200] [DownloadEvent:Finished] [HttpError:OK] [ServerError:OK]
+11:00:03:902 (1464) > The request (GetPlayerProfileFrom) [Id:0] hasn't been setup properly.
+11:00:04:200 (1464) > Request (GetPlayerProfileFrom) [Id:1] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+11:00:19:015 (1464) > Request (SEM_Login) [Id:2] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:OK]
+11:01:09:602 (1464) > DX11RenderContext:---OnSettingsChanged ---
+11:01:09:604 (1464) > PCDX11RenderContext::Resize(1920, 1080, False)
+11:01:09:606 (1464) > PCDX11RenderContext::Resize no change
+11:01:17:499 (1464) > The request (UpdatePlayer) [Id:7] hasn't been setup properly.
+11:01:34:348 (1464) > Player object AddRef laracroft: 1 => 2
+11:01:34:353 (1464) > Player object AddRef laracroft: 2 => 3
+11:01:34:420 (1464) > Player object AddRef laracroft: 3 => 4
+11:02:46:671 (1464) > Player object RemRef laracroft: 4 => 3
+11:02:46:674 (1464) > Player object RemRef laracroft: 3 => 2
+11:02:46:675 (1464) > Player object RemRef laracroft: 2 => 1
+11:02:50:083 (1464) > Exiting the game.
